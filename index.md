@@ -1,3 +1,8 @@
+---
+title: The Win Ratio and Generalised Pairwise Comparisons
+math: true
+---
+
 # The Win Ratio and Generalised Pairwise Comparisons: A Detailed Review
 
 ## Introduction
@@ -93,3 +98,7 @@ Buyse, M. (2010). Generalised pairwise comparisons of prioritised outcomes in th
 Pocock, S. J., Ariti, C. A., Collier, T. J., & Wang, D. (2012). The Win Ratio: A new approach to the analysis of composite endpoints in clinical trials based on clinical priorities. *European Heart Journal, 33*(2), 176-182. https://doi.org/10.1093/eurheartj/ehr352  
 
 Verbeeck, J., Dirani, M., Bauer, J. W., Hilgers, R. D., Molenberghs, G., & Nabbout, R. (2023). Composite endpoints, including patient-reported outcomes, in rare diseases. *Orphanet Journal of Rare Diseases, 18*, 262. https://doi.org/10.1186/s13023-023-02819-x  
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
