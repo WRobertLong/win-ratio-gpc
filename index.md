@@ -44,9 +44,7 @@ Consider a heart failure trial evaluating **cardiovascular (CV) death** and **ho
 
 The Win Ratio is computed as:
 
-$$
-\text{Win Ratio} = \frac{(100 + 50)}{(80 + 40)} = \frac{150}{120} = 1.25
-$$
+$\text{Win Ratio} = \frac{(100 + 50)}{(80 + 40)} = \frac{150}{120} = 1.25$
 
 This suggests a **25% higher likelihood of better outcomes with treatment**.
 
